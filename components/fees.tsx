@@ -55,7 +55,7 @@ export function Fees() {
               <CardHeader className="text-center pb-4">
                 <CardTitle className="font-serif text-xl">BASIC TAX RETURN</CardTitle>
                 <CardDescription className="text-3xl font-serif font-medium text-foreground mt-4">
-                  $280 <span className="text-base font-normal text-muted-foreground">Plus GST</span>
+                  $295 <span className="text-base font-normal text-muted-foreground">Plus GST</span>
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
@@ -108,7 +108,7 @@ export function Fees() {
               <CardHeader className="text-center pb-4 pt-8">
                 <CardTitle className="font-serif text-xl">DETAILED TAX RETURN</CardTitle>
                 <CardDescription className="text-3xl font-serif font-medium text-foreground mt-4">
-                  $420 <span className="text-base font-normal text-muted-foreground">Plus GST</span>
+                  $445 <span className="text-base font-normal text-muted-foreground">Plus GST</span>
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
@@ -179,7 +179,7 @@ export function Fees() {
               {
                 title: "FINANCIAL STATEMENTS",
                 description: "We provide end of year and quarterly accounts and in some cases monthly accounts.",
-                price: "From $895 pa",
+                price: "From $890 pa",
                 note: "depending on the quality of information provided and the complexity of the business.",
               },
               {
@@ -190,7 +190,7 @@ export function Fees() {
               {
                 title: "BAS & IAS",
                 description: "Quarterly BAS returns are provided at a flat fee.",
-                price: "$245 per return",
+                price: "$265 per return",
                 note: "If accounts are to be prepared prior to the completion of the BAS return, additional fees will apply.",
               },
               {
@@ -251,14 +251,14 @@ export function Fees() {
               </h4>
               <ul className="space-y-3 text-sm text-muted-foreground">
                 <li>Work Related Deductions – (in excess of above limits) may be charged at <span className="text-foreground font-medium">$25.00 per item</span> thereafter.</li>
-                <li>Motor Vehicle Expenses schedule – If detailed calcs are required; <span className="text-foreground font-medium">$65.00</span></li>
-                <li>Rental Property – up to <span className="text-foreground font-medium">$110</span> for each rental property</li>
-                <li>Depreciation Schedules if required – up to <span className="text-foreground font-medium">$55 per page</span></li>
-                <li>Business Schedules – <span className="text-foreground font-medium">$110 per schedule</span></li>
-                <li>Multiple Dividend schedules – 5 or more statements; <span className="text-foreground font-medium">$65</span>, 10 or more statements <span className="text-foreground font-medium">$120</span>.</li>
-                <li>Multiple Trust Distribution statements – 2 or more; <span className="text-foreground font-medium">$65</span>, each after <span className="text-foreground font-medium">$30 each</span>.</li>
+                <li>Motor Vehicle Expenses schedule – If detailed calcs are required; <span className="text-foreground font-medium">$70.00</span></li>
+                <li>Rental Property – up to <span className="text-foreground font-medium">$115</span> for each rental property</li>
+                <li>Depreciation Schedules if required – up to <span className="text-foreground font-medium">$60 per page</span></li>
+                <li>Business Schedules – <span className="text-foreground font-medium">$115 per schedule</span></li>
+                <li>Multiple Dividend schedules – 5 or more statements; <span className="text-foreground font-medium">$70</span>, 10 or more statements <span className="text-foreground font-medium">$140</span>.</li>
+                <li>Multiple Trust Distribution statements – 2 or more; <span className="text-foreground font-medium">$70</span>, each after <span className="text-foreground font-medium">$35 each</span>.</li>
                 <li>Capital Gains Tax Schedules – <span className="text-foreground font-medium">$30 per schedule</span></li>
-                <li>Capital Gains Tax calculations – from information provided – Starting from <span className="text-foreground font-medium">$90</span>.</li>
+                <li>Capital Gains Tax calculations – from information provided – Starting from <span className="text-foreground font-medium">$95</span>.</li>
               </ul>
             </div>
             <div>
