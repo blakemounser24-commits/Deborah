@@ -196,7 +196,7 @@ export function Fees() {
               {
                 title: "ASIC Returns",
                 description: "ASIC complete a yearly review of every Australian registered company. A review statement and solvency certificate is required every year. We can manage this process.",
-                price: "$165 pa",
+                price: "$175 pa",
               },
             ].map((item, i) => (
               <Card
