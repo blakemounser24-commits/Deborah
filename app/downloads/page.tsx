@@ -10,7 +10,7 @@ import { useScrollAnimation } from "@/hooks/use-scroll-animation"
 const questionnaireDocs = [
   {
     name: "Download the QUESTIONNAIRE 2026",
-    href: "https://1drv.ms/x/c/450cb344e39701bc/IQBQWh7acMidRoAbvuQBvdhMAZY4RD2OsGe708gkFwU3nZY?e=HqhW8d&nav=MTVfezMzNzdDQ0ZELTVBN0YtNDE1QS04REVCLUNCMTNEMDJENUIxQ30",
+    href: "https://deborahhillacc.sharepoint.com/:x:/g/IQBuXP7wbWIxR75v2pdfgTS6AfdnkH7z00kf-S2JqXrF7c0?e=Zg1zQT",
     icon: FileText,
   },
   {
